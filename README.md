@@ -178,7 +178,8 @@
 
  <h3>🔖 Recent Blog Post<img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
-  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
