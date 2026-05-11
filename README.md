@@ -176,7 +176,7 @@
 5. 🗣 Commented on [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126#issuecomment-4244530344) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
- <h3>🔖 Recent Blog Post<img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
+ <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
