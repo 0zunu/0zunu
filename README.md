@@ -74,6 +74,8 @@
   <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-wakatime.svg"></a>
   <a href="https://github.com/King-Ulee">
+    <img align="center" width="390" src="metrics/metrics-activity.svg"></a>
+  <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-community.svg"></a>
   <a href="https://github.com/King-Ulee">
     <img align="center" width="390" src="metrics/metrics-pagespeed.svg"></a>
