@@ -41,38 +41,8 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-  metrics-wakatime:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics-wakatime.svg
-          token: NOT_NEEDED
-          committer_message: "📊 Update Metrics with the Github Action"
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
-  metrics-activity:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics-activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_message: "📊 Update Metrics with the Github Action"
-          user: ${{ github.repository_owner }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, star, comment, push, public, pr, release, fork, review, ref/create
+          # nota
+          plugin_notable: yes
 
   metrics-pagespeed:
     runs-on: ubuntu-latest
