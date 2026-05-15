@@ -50,6 +50,8 @@ jobs:
         with:
           filename: metrics/metrics-wakatime.svg
           token: NOT_NEEDED
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
@@ -64,6 +66,8 @@ jobs:
         with:
           filename: metrics/metrics-activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
