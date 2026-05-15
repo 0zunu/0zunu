@@ -44,6 +44,22 @@ jobs:
           # nota
           plugin_notable: yes
 
+  metrics-wakatime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-wakatime.svg
+          committer_message: "📊 Update Metrics with the Github Action"
+          user: ${{ github.repository_owner }}
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
   metrics-pagespeed:
     runs-on: ubuntu-latest
     permissions:
