@@ -41,8 +41,19 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-          # notable
-          plugin_notable: yes
+  metrics-wakatime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
   metrics-pagespeed:
     runs-on: ubuntu-latest
