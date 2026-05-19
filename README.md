@@ -173,11 +173,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#129](https://github.com/0zunu/Status-Page-Advanced/issues/129) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-2. ℹ️ Labeled issue [#129](https://github.com/0zunu/Status-Page-Advanced/issues/129) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-3. ℹ️ Labeled issue [#129](https://github.com/0zunu/Status-Page-Advanced/issues/129) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-4. ❗ Opened issue [#129](https://github.com/0zunu/Status-Page-Advanced/issues/129) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-5. 🗣 Commented on [#126](https://github.com/0zunu/Status-Page-Advanced/issues/126#issuecomment-4244530344) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+1. 🔒 Closed issue [#129](https://github.com/King-Ulee/Status-Page-Advanced/issues/129) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+2. ℹ️ Labeled issue [#129](https://github.com/King-Ulee/Status-Page-Advanced/issues/129) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+3. ℹ️ Labeled issue [#129](https://github.com/King-Ulee/Status-Page-Advanced/issues/129) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+4. ❗ Opened issue [#129](https://github.com/King-Ulee/Status-Page-Advanced/issues/129) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
+5. 🗣 Commented on [#126](https://github.com/King-Ulee/Status-Page-Advanced/issues/126#issuecomment-4244530344) in [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced)
 <!--END_SECTION:activity-->
 
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
