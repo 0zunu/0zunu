@@ -183,11 +183,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 May 20, 2026 [BGP](https://www.azriel.id/study/cisco/bgp/)
- - 📕 May 19, 2026 [OSPF](https://www.azriel.id/study/cisco/ospf/)
- - 📘 May 18, 2026 [EIGRP](https://www.azriel.id/study/cisco/eigrp/)
- - 📙 May 17, 2026 [IPv6](https://www.azriel.id/study/cisco/ipv6/)
- - 📘 May 16, 2026 [Routing](https://www.azriel.id/study/cisco/routing/)<!-- BLOG-POST-LIST:END -->
+ - 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
+ - 📕 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
+ - 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)
+ - 📙 May 20, 2026 [BGP](https://www.azriel.id/study/cisco/bgp/)
+ - 📘 May 19, 2026 [OSPF](https://www.azriel.id/study/cisco/ospf/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
