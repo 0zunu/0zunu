@@ -45,7 +45,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0zunu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/0zunu?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0zunu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://discord.gg/WzuNzyaJCq">
+  <a href="https://discord.gg/KsgDCBaXUB">
     <img alt="discord" title="Discord Server" src="https://custom-icon-badges.demolab.com/discord/1245192377123995680?color=BF40BF&labelColor=800080&style=for-the-badge&logo=comments&label=discord&logoColor=white"/></a><br>
   <a href="https://github.com/0zunu">
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=0zunu&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
@@ -183,11 +183,12 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 May 1, 2026 [Web Programming I #02: Introduction to HTML](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-02-introduction-to-html/)
- - 📕 Apr 30, 2026 [Web Programming I #01: Basic Concepts of Web](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-01-basic-concept-of-web/)
- - 📘 Apr 27, 2026 [Logic and Algorithm #12: Problems and Graph Models in Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/12-problems-and-graph-models-in-greedy-method/)
- - 📙 Apr 26, 2026 [Logic and Algorithm #11: Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/11-greedy-method/)
- - 📘 Apr 25, 2026 [Logic and Algorithms #10: Searching Techniques and Introduction to Algorithm Analysis](https://www.azriel.id/study/programming/algorithm-logic/10-searching-techniques-and-introduction-to-algorithm-analysis/)<!-- BLOG-POST-LIST:END -->
+
+- 📘 May 1, 2026 [Web Programming I #02: Introduction to HTML](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-02-introduction-to-html/)
+- 📕 Apr 30, 2026 [Web Programming I #01: Basic Concepts of Web](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-01-basic-concept-of-web/)
+- 📘 Apr 27, 2026 [Logic and Algorithm #12: Problems and Graph Models in Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/12-problems-and-graph-models-in-greedy-method/)
+- 📙 Apr 26, 2026 [Logic and Algorithm #11: Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/11-greedy-method/)
+- 📘 Apr 25, 2026 [Logic and Algorithms #10: Searching Techniques and Introduction to Algorithm Analysis](https://www.azriel.id/study/programming/algorithm-logic/10-searching-techniques-and-introduction-to-algorithm-analysis/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
