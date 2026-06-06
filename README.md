@@ -183,12 +183,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- 📘 May 1, 2026 [Web Programming I #02: Introduction to HTML](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-02-introduction-to-html/)
-- 📕 Apr 30, 2026 [Web Programming I #01: Basic Concepts of Web](https://www.azriel.id/study/programming/web/practicum-module-1/chapter-01-basic-concept-of-web/)
-- 📘 Apr 27, 2026 [Logic and Algorithm #12: Problems and Graph Models in Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/12-problems-and-graph-models-in-greedy-method/)
-- 📙 Apr 26, 2026 [Logic and Algorithm #11: Greedy Method](https://www.azriel.id/study/programming/algorithm-logic/11-greedy-method/)
-- 📘 Apr 25, 2026 [Logic and Algorithms #10: Searching Techniques and Introduction to Algorithm Analysis](https://www.azriel.id/study/programming/algorithm-logic/10-searching-techniques-and-introduction-to-algorithm-analysis/)<!-- BLOG-POST-LIST:END -->
+ - 📘 May 30, 2026 [Mikrotik Router-OS Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-router-os-fundamental/)
+ - 📕 May 29, 2026 [Mikrotik Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-fundamental/)
+ - 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
+ - 📙 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
+ - 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
