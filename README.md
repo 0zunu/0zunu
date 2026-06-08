@@ -173,11 +173,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#8](https://github.com/0zunu/monitoring-all-website/issues/8) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
-2. 🗣 Commented on [#8](https://github.com/0zunu/monitoring-all-website/issues/8#issuecomment-4643991673) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
-3. ℹ️ Labeled issue [#8](https://github.com/0zunu/monitoring-all-website/issues/8) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
-4. ℹ️ Labeled issue [#8](https://github.com/0zunu/monitoring-all-website/issues/8) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
-5. ❗ Opened issue [#8](https://github.com/0zunu/monitoring-all-website/issues/8) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+1. 🔒 Closed issue [#10](https://github.com/0zunu/monitoring-all-website/issues/10) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+2. 🗣 Commented on [#10](https://github.com/0zunu/monitoring-all-website/issues/10#issuecomment-4646198443) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+3. ℹ️ Labeled issue [#10](https://github.com/0zunu/monitoring-all-website/issues/10) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+4. ℹ️ Labeled issue [#10](https://github.com/0zunu/monitoring-all-website/issues/10) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+5. ❗ Opened issue [#10](https://github.com/0zunu/monitoring-all-website/issues/10) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
 <!--END_SECTION:activity-->
 
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
