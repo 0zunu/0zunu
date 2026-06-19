@@ -173,11 +173,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#130](https://github.com/0zunu/Status-Page-Advanced/issues/130) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-2. 🗣 Commented on [#130](https://github.com/0zunu/Status-Page-Advanced/issues/130#issuecomment-4492513439) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-3. ℹ️ Labeled issue [#130](https://github.com/0zunu/Status-Page-Advanced/issues/130) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-4. ℹ️ Labeled issue [#130](https://github.com/0zunu/Status-Page-Advanced/issues/130) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-5. ❗ Opened issue [#130](https://github.com/0zunu/Status-Page-Advanced/issues/130) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+1. ℹ️ Labeled issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+2. ℹ️ Labeled issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+3. ❗ Opened issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+4. 🔒 Closed issue [#14](https://github.com/0zunu/monitoring-all-website/issues/14) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+5. 🗣 Commented on [#14](https://github.com/0zunu/monitoring-all-website/issues/14#issuecomment-4665191579) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
 <!--END_SECTION:activity-->
 
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
