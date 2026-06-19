@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@O_zunu"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/azriel-fidzlie-129252278/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/azriel-fidzlie"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/king_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -183,18 +183,19 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 May 30, 2026 [Mikrotik Router-OS Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-router-os-fundamental/)
- - 📕 May 29, 2026 [Mikrotik Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-fundamental/)
- - 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
- - 📙 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
- - 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)<!-- BLOG-POST-LIST:END -->
+
+- 📘 May 30, 2026 [Mikrotik Router-OS Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-router-os-fundamental/)
+- 📕 May 29, 2026 [Mikrotik Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-fundamental/)
+- 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
+- 📙 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
+- 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
 <h3 align="center">🌎 Find me around the web</h3>
 <p align="center">
   <a target="_blank" href="mailto:fidzlieazriel@gmail.com"><img title="My Email: fidzlieazriel@gmail.com" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/azriel-fidzlie-129252278/"><img title="My Linkedin" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/azriel-fidzlie"><img title="My Linkedin" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/linkedin.svg" alt="pratik-pingale"/></a>
   <a target="_blank" href="https://www.instagram.com/mas.ulee/"><img title="My Instagram" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/instagram.svg" alt="mas.ulee"/></a>
   <a target="_blank" href="https://twitter.com/king_ulee"><img title="My Twitter" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/twitter.svg" alt="0zunu"/></a>
   <a target="_blank" href="https://www.reddit.com/user/Maleficent_Pie_6580"><img title="My Reddit" src="https://raw.githubusercontent.com/0zunu/0zunu/main/src/social/reddit.svg" alt="0zunu"/></a>
