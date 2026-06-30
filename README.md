@@ -183,12 +183,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- 📘 May 30, 2026 [Mikrotik Router-OS Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-router-os-fundamental/)
-- 📕 May 29, 2026 [Mikrotik Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-fundamental/)
-- 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
-- 📙 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
-- 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Jun 21, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
+ - 📕 Jun 20, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)
+ - 📘 Jun 19, 2026 [Basic Database Concepts](https://www.azriel.id/study/programming/database-system/chapter-01-basic-database-concepts/)
+ - 📙 Jun 5, 2026 [Character Building: Anti-Corruption Education](https://www.azriel.id/articles/2026-06-character-building-part-6-anti-corruption-education/)
+ - 📘 Jun 4, 2026 [Character Building: Social Environment &amp; Social Interaction](https://www.azriel.id/articles/2026-06-character-building-part-5-social-enviroment-and-social-interaction/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
