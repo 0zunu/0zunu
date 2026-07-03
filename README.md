@@ -173,8 +173,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2948](https://github.com/nunocoracao/blowfish/pull/2948) in [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)
-2. ℹ️ Labeled issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+1. 🗣 Commented on [#959](https://github.com/upptime/upptime/issues/959#issuecomment-4873244283) in [upptime/upptime](https://github.com/upptime/upptime)
+2. 🎉 Merged PR [#2948](https://github.com/nunocoracao/blowfish/pull/2948) in [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)
 3. ❗ Opened issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
 4. 🔒 Closed issue [#14](https://github.com/0zunu/monitoring-all-website/issues/14) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
 5. 🗣 Commented on [#14](https://github.com/0zunu/monitoring-all-website/issues/14#issuecomment-4665191579) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
