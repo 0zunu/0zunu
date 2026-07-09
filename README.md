@@ -173,22 +173,13 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-2. ℹ️ Labeled issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-3. ❗ Opened issue [#131](https://github.com/0zunu/Status-Page-Advanced/issues/131) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
-4. 🔒 Closed issue [#14](https://github.com/0zunu/monitoring-all-website/issues/14) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
-5. 🗣 Commented on [#14](https://github.com/0zunu/monitoring-all-website/issues/14#issuecomment-4665191579) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
 <!--END_SECTION:activity-->
 
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
 
-- 📘 May 30, 2026 [Mikrotik Router-OS Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-router-os-fundamental/)
-- 📕 May 29, 2026 [Mikrotik Fundamental](https://www.azriel.id/study/mikrotik/mikrotik-fundamental/)
-- 📘 May 28, 2026 [Pandoc #03: Output](https://www.azriel.id/articles/2026-05-pandoc-output/)
-- 📙 May 27, 2026 [Pandoc #02: Markdown](https://www.azriel.id/articles/2026-05-pandoc-markdown/)
-- 📘 May 26, 2026 [Pandoc #01: Introduction](https://www.azriel.id/articles/2026-05-pandoc-introduction/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
