@@ -2,17 +2,20 @@ name: GitHub - Activity - Readme
 
 on:
   schedule: # Run At 20:00 UTC
-    - cron: '0 20 * * *'
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           MAX_LINES: 5
