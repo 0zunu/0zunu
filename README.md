@@ -183,8 +183,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/week.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ - 📘 Jun 22, 2026 [Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/chapter-04-entity-relationship-diagram/)
+ - 📕 Jun 21, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
+ - 📘 Jun 20, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)
+ - 📙 Jun 19, 2026 [Basic Database Concepts](https://www.azriel.id/study/programming/database-system/chapter-01-basic-database-concepts/)
+ - 📘 Jun 5, 2026 [Character Building: Anti-Corruption Education](https://www.azriel.id/articles/2026-06-character-building-part-6-anti-corruption-education/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
