@@ -173,7 +173,7 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/azrielbsi/Genshin-StarRail-Stats/issues/3) in [azrielbsi/Genshin-StarRail-Stats](https://github.com/azrielbsi/Genshin-StarRail-Stats)
+1. ❗ Opened issue [#226](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/issues/226) in [ikhsan3adi/absensi-sekolah-qr-code](https://github.com/ikhsan3adi/absensi-sekolah-qr-code)
 2. ❗ Opened issue [#3](https://github.com/azrielbsi/Genshin-StarRail-Stats/issues/3) in [azrielbsi/Genshin-StarRail-Stats](https://github.com/azrielbsi/Genshin-StarRail-Stats)
 3. 🗣 Commented on [#959](https://github.com/upptime/upptime/issues/959#issuecomment-4873244283) in [upptime/upptime](https://github.com/upptime/upptime)
 4. 🔒 Closed issue [#14](https://github.com/0zunu/monitoring-all-website/issues/14) in [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
@@ -183,12 +183,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- 📘 Jun 22, 2026 [Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/chapter-04-entity-relationship-diagram/)
-- 📕 Jun 21, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
-- 📘 Jun 20, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)
-- 📙 Jun 19, 2026 [Basic Database Concepts](https://www.azriel.id/study/programming/database-system/chapter-01-basic-database-concepts/)
-- 📘 Jun 5, 2026 [Character Building: Anti-Corruption Education](https://www.azriel.id/articles/2026-06-character-building-part-6-anti-corruption-education/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Jul 11, 2026 [Formal Query Language](https://www.azriel.id/study/programming/database-system/chapter-06-formal-query-languages/)
+ - 📕 Jul 10, 2026 [Normalization](https://www.azriel.id/study/programming/database-system/chapter-05-normalization/)
+ - 📘 Jul 9, 2026 [Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/chapter-04-entity-relationship-diagram/)
+ - 📙 Jul 8, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
+ - 📘 Jul 7, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
