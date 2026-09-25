@@ -84,11 +84,6 @@
   <a href="https://github.com/0zunu">
     <img align="center" width="390" src="metrics/metrics-achievements.svg"></a>
 </p>
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-  <a href="https://github.com/0zunu"><img title="0zunu's Activity Graph" alt="0zunu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=0zunu&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true&area=true"/></a>
-</p>
         
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -183,11 +178,12 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Jul 11, 2026 [Formal Query Language](https://www.azriel.id/study/programming/database-system/chapter-06-formal-query-languages/)
- - 📕 Jul 10, 2026 [Normalization](https://www.azriel.id/study/programming/database-system/chapter-05-normalization/)
- - 📘 Jul 9, 2026 [Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/chapter-04-entity-relationship-diagram/)
- - 📙 Jul 8, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
- - 📘 Jul 7, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)<!-- BLOG-POST-LIST:END -->
+
+- 📘 Jul 11, 2026 [Formal Query Language](https://www.azriel.id/study/programming/database-system/chapter-06-formal-query-languages/)
+- 📕 Jul 10, 2026 [Normalization](https://www.azriel.id/study/programming/database-system/chapter-05-normalization/)
+- 📘 Jul 9, 2026 [Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/chapter-04-entity-relationship-diagram/)
+- 📙 Jul 8, 2026 [Data Model](https://www.azriel.id/study/programming/database-system/chapter-03-data-model/)
+- 📘 Jul 7, 2026 [Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/chapter-02-relational-databases-and-database-design/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
