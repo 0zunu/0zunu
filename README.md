@@ -188,12 +188,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- 📘 Jul 11, 2026 [Database System #06: Formal Query Language](https://www.azriel.id/study/programming/database-system/formal-query-languages/)
-- 📕 Jul 10, 2026 [Database System #05: Normalization](https://www.azriel.id/study/programming/database-system/normalization/)
-- 📘 Jul 9, 2026 [Database System #04: Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/entity-relationship-diagram/)
-- 📙 Jul 8, 2026 [Database System #03: Data Model](https://www.azriel.id/study/programming/database-system/data-model/)
-- 📘 Jul 7, 2026 [Database System #02: Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/relational-databases-and-database-design/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Jul 11, 2026 [Database System #06: Formal Query Language](https://www.azriel.id/study/programming/database-system/formal-query-languages/)
+ - 📕 Jul 10, 2026 [Database System #05: Normalization](https://www.azriel.id/study/programming/database-system/normalization/)
+ - 📘 Jul 9, 2026 [Database System #04: Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/entity-relationship-diagram/)
+ - 📙 Jul 8, 2026 [Database System #03: Data Model](https://www.azriel.id/study/programming/database-system/data-model/)
+ - 📘 Jul 7, 2026 [Database System #02: Relational Databases &amp; Database Design](https://www.azriel.id/study/programming/database-system/relational-databases-and-database-design/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
