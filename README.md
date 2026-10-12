@@ -69,9 +69,9 @@
 <p align="center">
   <a href="https://github.com/0zunu">
     <img
-      src="https://render.gitanimals.org/lines/0zunu"
-      width="800"
-      height="120"
+      src="https://render.gitanimals.org/farms/0zunu"
+      width="400"
+      height="200"
     />
   </a>
 </p>
