@@ -188,7 +188,7 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Oct 13, 2026 [How to Install Git and Initial Configuration on Windows](https://www.azriel.id/study/programming/git/how-to-install-git-and-initial-configuration-on-windows/)
+ - 📘 Oct 16, 2026 [How to Install Git and Initial Configuration on Windows](https://www.azriel.id/study/programming/git/how-to-install-git-and-initial-configuration-on-windows/)
  - 📕 Jul 11, 2026 [Database System #06: Formal Query Language](https://www.azriel.id/study/programming/database-system/formal-query-languages/)
  - 📘 Jul 10, 2026 [Database System #05: Normalization](https://www.azriel.id/study/programming/database-system/normalization/)
  - 📙 Jul 9, 2026 [Database System #04: Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/entity-relationship-diagram/)
