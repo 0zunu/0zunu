@@ -188,11 +188,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Oct 16, 2026 [How to Install Git and Initial Configuration on Windows](https://www.azriel.id/study/programming/git/how-to-install-git-and-initial-configuration-on-windows/)
- - 📕 Jul 11, 2026 [Database System #06: Formal Query Language](https://www.azriel.id/study/programming/database-system/formal-query-languages/)
- - 📘 Jul 10, 2026 [Database System #05: Normalization](https://www.azriel.id/study/programming/database-system/normalization/)
- - 📙 Jul 9, 2026 [Database System #04: Entity-Relationship Diagram &lpar;ERD&rpar;](https://www.azriel.id/study/programming/database-system/entity-relationship-diagram/)
- - 📘 Jul 8, 2026 [Database System #03: Data Model](https://www.azriel.id/study/programming/database-system/data-model/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Oct 29, 2026 [Critical Threats in the Node.js Ecosystem: Breaking Down the &#39;Node2Shell&#39; RCE Vulnerability in the Brotli Module &lpar;CVE-2026-111497&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-in-the-nodejs-ecosystem-breaking-down-the-rce-node2shell-vulnerability-in-the-brotli-module-cve-2026-111497/)
+ - 📕 Oct 22, 2026 [Critical Threats Behind PHP: Dissecting Dangerous RCE Vulnerabilities &lpar;CVE-2026-109618 &amp; CVE-2026-109619&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-behind-php-unpacking-dangerous-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/)
+ - 📘 Oct 19, 2026 [KIAT](https://www.azriel.id/portfolio/kiat/)
+ - 📙 Oct 18, 2026 [How to Contribute to Open Source on GitHub](https://www.azriel.id/study/programming/git/how-to-contribute-to-github-open-source/)
+ - 📘 Oct 17, 2026 [How to Push a Project to GitHub Using Git](https://www.azriel.id/study/programming/git/how-to-push-a-project-to-github-using-git/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
