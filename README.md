@@ -188,11 +188,11 @@
  <h3>🔖 Recent Blog Post <img height="20" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/year.png"></h3>
 
 <!-- BLOG-POST-LIST:START -->
- - 📘 Oct 29, 2026 [Critical Threats in the Node.js Ecosystem: Breaking Down the &#39;Node2Shell&#39; RCE Vulnerability in the Brotli Module &lpar;CVE-2026-111497&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-in-the-nodejs-ecosystem-breaking-down-the-rce-node2shell-vulnerability-in-the-brotli-module-cve-2026-111497/)
- - 📕 Oct 22, 2026 [Critical Threats Behind PHP: Dissecting Dangerous RCE Vulnerabilities &lpar;CVE-2026-109618 &amp; CVE-2026-109619&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-behind-php-unpacking-dangerous-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/)
- - 📘 Oct 19, 2026 [KIAT](https://www.azriel.id/portfolio/kiat/)
- - 📙 Oct 18, 2026 [How to Contribute to Open Source on GitHub](https://www.azriel.id/study/programming/git/how-to-contribute-to-github-open-source/)
- - 📘 Oct 17, 2026 [How to Push a Project to GitHub Using Git](https://www.azriel.id/study/programming/git/how-to-push-a-project-to-github-using-git/)<!-- BLOG-POST-LIST:END -->
+ - 📘 Nov 3, 2026 [Critical Java Security Threat: JSSE Certificate Vulnerability &lpar;CVE-2026-91403&rpar;](https://www.azriel.id/articles/2026-11-critical-java-security-threat-jsse-certificate-vulnerability-cve-2026-91403/)
+ - 📕 Oct 29, 2026 [Critical Threats in the Node.js Ecosystem: Breaking Down the &#39;Node2Shell&#39; RCE Vulnerability in the Brotli Module &lpar;CVE-2026-111497&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-in-the-nodejs-ecosystem-breaking-down-the-rce-node2shell-vulnerability-in-the-brotli-module-cve-2026-111497/)
+ - 📘 Oct 22, 2026 [Critical Threats Behind PHP: Dissecting Dangerous RCE Vulnerabilities &lpar;CVE-2026-109618 &amp; CVE-2026-109619&rpar;](https://www.azriel.id/articles/2026-10-critical-threats-behind-php-unpacking-dangerous-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/)
+ - 📙 Oct 19, 2026 [KIAT](https://www.azriel.id/portfolio/kiat/)
+ - 📘 Oct 18, 2026 [How to Contribute to Open Source on GitHub](https://www.azriel.id/study/programming/git/how-to-contribute-to-github-open-source/)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
