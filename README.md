@@ -178,8 +178,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/0zunu/azriel.id/pull/1) in [0zunu/azriel.id](https://github.com/0zunu/azriel.id)
-2. 🗣 Commented on [#133](https://github.com/0zunu/Status-Page-Advanced/issues/133#issuecomment-6583612210) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
+1. ❌ Closed PR [#1](https://github.com/0zunu/github-profile-views-counter/pull/1) in [0zunu/github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
+2. ❌ Closed PR [#1](https://github.com/0zunu/azriel.id/pull/1) in [0zunu/azriel.id](https://github.com/0zunu/azriel.id)
 3. 🔒 Closed issue [#133](https://github.com/0zunu/Status-Page-Advanced/issues/133) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
 4. ℹ️ Labeled issue [#133](https://github.com/0zunu/Status-Page-Advanced/issues/133) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
 5. ❗ Opened issue [#133](https://github.com/0zunu/Status-Page-Advanced/issues/133) in [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced)
